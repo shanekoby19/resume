@@ -4,11 +4,31 @@ a {
     font-style: italic;
 }
 
-button {
+.demo-btn {
     padding: 0.4rem;
-    border: 1px solid black;
+    border: 1px solid #ef476f;
     border-radius: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.5rem;
-    background-color: #f1faee;
+    background-color: #ef476f;
+    color: white;
+}
+
+.react {
+    color: #48cae4;
+    font-weight: 600;
+}
+
+h2 {
+    color: #6a040f;
+}
+
+.redux {
+    color: #9d4edd;
+    font-weight: 600;
+}
+
+.firestore {
+    color: #ff6d00;
+    font-weight: 600;
 }

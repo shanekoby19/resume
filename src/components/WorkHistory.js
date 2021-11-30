@@ -29,10 +29,10 @@ const WorkHistory = () => {
                 </Col>
             </Row>
             <Row>
-                <Col xs={12} className='mb-5' style={{height: '70vh'}}>
+                <Col xs={12} className='mb-5' style={{height: '70vh', width: "100%"}}>
                     <Chrono
                         items={items}
-                        mode={window.innerWidth > 500 ? 'VERTICAL_ALTERNATING' : 'HORIZONTAL'}
+                        mode={window.innerWidth > 500 ? 'VERTICAL_ALTERNATING' : 'VERTICAL'}
                         hideControls={true}
                         theme={{
                             primary: '#ccc',
