@@ -5,7 +5,7 @@ import { Chrono } from 'react-chrono';
 const items = [{
     title: 'August 2018 - January 2021',
     cardTitle: 'Data Clerk - Acelero Learning',
-    cardDetailedText: 'As a Data Entry Clerk at Acelero Learning I was in charge of entering attendance, meal data, and child learning logs. During this three period I worked hard towards a Bachelors Degree in Computer Science.',
+    cardDetailedText: 'As a Data Entry Clerk at Acelero Learning, I was in charge of entering attendance, meal data, and child learning logs. During this three year period I worked hard towards a Bachelors Degree in Computer Science.',
 }, {
     title: 'January 2021',
     cardTitle: 'Graduation',
@@ -13,7 +13,7 @@ const items = [{
 }, {
     title: 'January 2021 - Present',
     cardTitle: 'Data Coordinator - Acelero Learning',
-    cardDetailedText: 'As a data coordinator for Acelero Learning I was able to leverage Javascript to automate dashboards using Google App Script and Google Data Studio. Over the last eight months I have also used my free-time to take on the challenge to learn Javascript and become a full-stack web developer. During this time, I have learned enough to create a fully-functional web application called Inkindable.',
+    cardDetailedText: 'As a data coordinator for Acelero Learning I was able to leverage Javascript to automate dashboards using Google App Script and Google Data Studio. Over the last eight months, I have also used my free-time to take on the challenge to learn Javascript and become a full-stack web developer. During this time, I have learned enough to create a fully-functional web application called Inkindable.',
 }, {
     title: 'November 2021',
     cardTitle: 'Inkindable',
